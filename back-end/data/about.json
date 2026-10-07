@@ -1,0 +1,11 @@
+{
+  "title": "About Us",
+  "name": "Guyu Sun",
+  "paragraphs": [
+    "Hi, my name is Guyu Sun. I am a senior at New York University (NYU), and I am sharing a little about myself on this page.",
+    "As part of my coursework, I am completing a full MERN-stack web application exercise. My work on this assignment includes creating this personal introduction page and connecting its React interface to an Express back-end.",
+    "The portrait on this page is a photo of me. If you would like to get in touch, you can reach me at my NYU email address, gs3998@nyu.edu."
+  ],
+  "imageUrl": "/images/guyu-sun.png",
+  "imageAlt": "Portrait of Guyu Sun wearing a black blazer"
+}
